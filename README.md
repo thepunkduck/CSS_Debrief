@@ -258,6 +258,7 @@ overriding styles.
 ## Objectives
 
 - Create a responsive web layout
+- Make use of the CSS Flex box
 
 
 ## Getting Started
@@ -268,7 +269,7 @@ Open 'CSS_Debrief/css-responsive-layout'
 
 The Exceptional Realty Group have decided to move into the 21st century and have realised that "mobile-first" development is correct way to develop a website. They have come crawling back to you to develop a simple, responsive, mobile-first website. (dont stress!)
 
-Using @media queries create a responsive website for mobile users and desktop users. If you want to stretch yourself, try creating one for mobile, tablet, laptop and desktop users if you have time.
+Using @media queries and CSS Flex boxes create a responsive website for mobile users and desktop users. If you want to stretch yourself, try creating one for mobile, tablet, laptop and desktop users if you have time. 
 
 
 ## Finished
